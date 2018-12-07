@@ -6,7 +6,7 @@ const Waves = () => {
         color: 'white'
     }
     return ( 
-        <div><i className="far fa-water">asdasdasd</i></div>
+        <div>Waves</div>
      );
 }
  

@@ -6,4 +6,4 @@ const Crickets = () => {
     );
 }
  
-export default Cricketsh1
+export default Crickets

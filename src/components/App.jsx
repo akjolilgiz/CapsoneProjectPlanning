@@ -7,6 +7,8 @@ import Waves from './Waves';
 import Birds from './Birds'; 
 import Fire from './Fire'; 
 import Wind from './Wind'; 
+import Thunder from './Thunder'; 
+import Crickets from './Crickets'
 
 function App(){
   let background = {
@@ -17,6 +19,11 @@ function App(){
     <div>
       <Navbar />
       <Header />
+      <Birds />
+      <Fire />
+      <Wind />
+      <Crickets />
+      <Thunder />
       <Sounds />
       <Waves />
     </div>
