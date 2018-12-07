@@ -1,8 +1,13 @@
 import React from 'react';
 
 function Sounds() {
+    let bodyStyle = {
+        height: '1300px'
+    }
     return ( 
-        <h1>Play</h1>
+        <div style={bodyStyle}>
+            <h1>Sounds</h1>
+        </div>
      );
 }
  
