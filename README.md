@@ -17,7 +17,7 @@ _This website lets user to customize a relaxing music to mute out outside sounds
 
 
 * App structure
-![Structure](https://github.com/akjolilgiz/CapstoneProjectPlanning/blob/master/ComponentStructure.png)
+![Structure](https://github.com/akjolilgiz/CapsoneProjectPlanning/blob/master/ComponentStructure.png)
 
 
 ## Known Bugs
